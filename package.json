@@ -1,0 +1,28 @@
+
+{
+  "name": "@cloudtea/react-native-smart-link",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "camera",
+    "edit",
+    "picture",
+    "take picture",
+    "scale picture",
+    "cloudtea",
+    "mobile"
+  ],
+  "author": "zjhiphop",
+  "license": "MIT",
+  "peerDependencies": {
+    "@cloudtea/react-native-cordova": "^1.0.0"
+  }
+}
